@@ -47,7 +47,7 @@ https://teams-clone-appv3.herokuapp.com/
   
 ## Author
 
-- [@Shri01kumari](https://github.com/Shri01kumari)
+- [Baibhav Sharan Singh && Shrishti Kumari]([https://github.com/Shri01kumari](https://github.com/Baibhav8600))
 
 ## Appendix
 
