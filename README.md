@@ -42,7 +42,7 @@ Start the server
 
 ## Demo
 
-https://teams-clone-appv3.herokuapp.com/
+https://teams-clone-baibhav.up.railway.app/
 
   
 ## Author
